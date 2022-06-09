@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @RoshanTS
+## 👋 Hi, I’m Roshan
 I’m studying data science and deep learning.
 I’m currently interested by its use in different fields like : 
 - 🌱 **Sustainable development**: Understand better climate change and its impact 
