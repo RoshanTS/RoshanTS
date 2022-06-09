@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @RoshanTS
 I’m studying data science, deep learning. I’m currently interested by its use in different fields like : 
 - 🌱 **Sustainable development**: Understand better climate change and its impact 
-- :soccer: **Football**: Exploring player behaviour and finding out tactics influence on player's performance
+- :soccer: **Football**: Exploring player's behaviour and finding out tactics influence on player's performance
 
 
 
