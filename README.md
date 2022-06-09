@@ -1,5 +1,6 @@
 ## 👋 Hi, I’m @RoshanTS
-I’m studying data science, deep learning. I’m currently interested by its use in different fields like : 
+I’m studying data science and deep learning.
+I’m currently interested by its use in different fields like : 
 - 🌱 **Sustainable development**: Understand better climate change and its impact 
 - :soccer: **Football**: Exploring player's behaviour and finding out tactics influence on player's performance
 - :hospital: **Healthcare**: Detecting diseases and support decision-making of health professionals 
